@@ -27,6 +27,8 @@ node_modules/
 poetry.lock
 uv.lock
 Pipfile.lock
+gemini_log/
+gemini_log/*.md
 
 ### Build & Distribution ###
 build/

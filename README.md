@@ -109,6 +109,12 @@ Create a virtual environment with Python 3.10 and activate it, e.g. with [`minic
 ```bash
 conda create -y -n lerobot python=3.10
 conda activate lerobot
+
+
+brew install ffmpeg@7 # uv is for python, conda is for anything
+# and then some linking problem 
+# env variable to prioritize ffmpeg@7 over latest version.
+# ./viz_dataset.sh # env variable
 ```
 
 When using `miniconda`, install `ffmpeg` in your environment:
@@ -205,6 +211,10 @@ You can also locally visualize episodes from a dataset on the hub by executing o
 python -m lerobot.scripts.visualize_dataset \
     --repo-id lerobot/pusht \
     --episode-index 0
+
+# and then some linking problem 
+# env variable to prioritize ffmpeg@7 over latest version.
+# ./viz_dataset.sh # env variable
 ```
 
 or from a dataset in a local folder with the `root` option and the `--local-files-only` (in the following case the dataset will be searched for in `./my_local_data_dir/lerobot/pusht`)
