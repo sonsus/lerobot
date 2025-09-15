@@ -1,0 +1,8 @@
+
+uv run python examples/replay_in_sim.py --env.type=aloha --dataset.repo_id=lerobot/aloha_insertion_20250604_radian --dataset.episode=0
+# uv pip install lerobot[aloha]
+# uv pip install gymnasium[mujoco]
+INFO 2025-09-15 13:52:00 /__init__.py:88 MUJOCO_GL is not set, so an OpenGL backend will be chosen automatically.
+uv pip install gymnasium[all] 은 gymnasium[box2d-py] 설치 실패로 되진 않지만
+uv run python test_gymnasium.py 는 문제없이 동작하긴 한다... 일단 sim replay는 여기서 멈추도록 하고 학습을 시작해보자 
+
