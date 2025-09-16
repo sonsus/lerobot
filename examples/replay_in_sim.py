@@ -8,6 +8,7 @@ python examples/replay_in_sim.py \
     --dataset.repo_id=lerobot/pusht \
     --dataset.episode=0
 """
+import math
 
 import logging
 import time
@@ -118,7 +119,7 @@ def replay_in_sim(cfg: ReplayInSimConfig):
         
 
         def list_round(lst:list, decimals:int):
-            return [round(x, decimals) for x in lst]
+            return [abs(x)< math.pi for x in lst]
 
         # this part for inspection
         episode_actions = torch.stack(episode_actions)

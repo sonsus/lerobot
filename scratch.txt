@@ -6,3 +6,8 @@ INFO 2025-09-15 13:52:00 /__init__.py:88 MUJOCO_GL is not set, so an OpenGL back
 uv pip install gymnasium[all] 은 gymnasium[box2d-py] 설치 실패로 되진 않지만
 uv run python test_gymnasium.py 는 문제없이 동작하긴 한다... 일단 sim replay는 여기서 멈추도록 하고 학습을 시작해보자 
 
+
+
+
+
+

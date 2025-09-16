@@ -1,0 +1,960 @@
+
+--------------------------------------------------
+0
+episode_actions shape: torch.Size([1092, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+1
+episode_actions shape: torch.Size([1030, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+2
+episode_actions shape: torch.Size([1248, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+3
+episode_actions shape: torch.Size([731, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+4
+episode_actions shape: torch.Size([751, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+5
+episode_actions shape: torch.Size([961, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+6
+episode_actions shape: torch.Size([1008, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+7
+episode_actions shape: torch.Size([901, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+8
+episode_actions shape: torch.Size([1104, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+9
+episode_actions shape: torch.Size([1061, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+10
+episode_actions shape: torch.Size([753, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+11
+episode_actions shape: torch.Size([997, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+12
+episode_actions shape: torch.Size([1024, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+13
+episode_actions shape: torch.Size([1003, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+14
+episode_actions shape: torch.Size([1085, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+15
+episode_actions shape: torch.Size([1023, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+16
+episode_actions shape: torch.Size([979, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+17
+episode_actions shape: torch.Size([935, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+18
+episode_actions shape: torch.Size([783, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+19
+episode_actions shape: torch.Size([1115, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+20
+episode_actions shape: torch.Size([719, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+21
+episode_actions shape: torch.Size([725, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+22
+episode_actions shape: torch.Size([824, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+23
+episode_actions shape: torch.Size([801, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+24
+episode_actions shape: torch.Size([988, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+25
+episode_actions shape: torch.Size([1009, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+26
+episode_actions shape: torch.Size([854, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+27
+episode_actions shape: torch.Size([864, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+28
+episode_actions shape: torch.Size([721, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+29
+episode_actions shape: torch.Size([853, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+30
+episode_actions shape: torch.Size([732, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+31
+episode_actions shape: torch.Size([796, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+32
+episode_actions shape: torch.Size([793, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+33
+episode_actions shape: torch.Size([694, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+34
+episode_actions shape: torch.Size([618, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+35
+episode_actions shape: torch.Size([828, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+36
+episode_actions shape: torch.Size([585, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+37
+episode_actions shape: torch.Size([874, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+38
+episode_actions shape: torch.Size([647, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+39
+episode_actions shape: torch.Size([606, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+40
+episode_actions shape: torch.Size([922, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+41
+episode_actions shape: torch.Size([1086, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+42
+episode_actions shape: torch.Size([921, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+43
+episode_actions shape: torch.Size([950, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+44
+episode_actions shape: torch.Size([713, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+45
+episode_actions shape: torch.Size([785, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+46
+episode_actions shape: torch.Size([1007, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+47
+episode_actions shape: torch.Size([671, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+48
+episode_actions shape: torch.Size([862, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+49
+episode_actions shape: torch.Size([723, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+50
+episode_actions shape: torch.Size([902, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+51
+episode_actions shape: torch.Size([797, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+52
+episode_actions shape: torch.Size([569, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+53
+episode_actions shape: torch.Size([733, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+54
+episode_actions shape: torch.Size([552, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+55
+episode_actions shape: torch.Size([679, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+56
+episode_actions shape: torch.Size([732, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+57
+episode_actions shape: torch.Size([845, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+58
+episode_actions shape: torch.Size([537, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+59
+episode_actions shape: torch.Size([724, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+60
+episode_actions shape: torch.Size([716, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+61
+episode_actions shape: torch.Size([716, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+62
+episode_actions shape: torch.Size([647, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
+
+--------------------------------------------------
+63
+episode_actions shape: torch.Size([565, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+episode_states shape: torch.Size([53469, 14])
+	max: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	min: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	mean: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+	med: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+--------------------------------------------------
+
