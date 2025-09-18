@@ -28,6 +28,8 @@ else
   exit 1
 fi
 
+
+# ffmpeg path for mac (trying to manually fix the linking makes security issues, adding env variable is simpler)
 DYLD_LIBRARY_PATH=/opt/homebrew/opt/ffmpeg@7/lib uv run python -m lerobot.scripts.visualize_dataset --repo-id "$actual_repo_id" --episode-index "$ep_idx"
 
 

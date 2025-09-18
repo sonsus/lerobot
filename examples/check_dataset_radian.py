@@ -3,7 +3,7 @@ Replays the actions of an episode from a dataset on a simulation environment.
 
 Usage:
 
-python examples/replay_in_sim.py \
+python examples/check_dataset_radian.py \
     --env.type=pusht \
     --dataset.repo_id=lerobot/pusht \
     --dataset.episode=0
@@ -196,6 +196,7 @@ def replay_in_sim(cfg: ReplayInSimConfig):
             else:
                 log_say(f"Episode {episode_to_jump} does not exist. Continuing with the next episode.", cfg.play_sounds)
 
+    return
     env.close()
     log_say("All replays finished.", cfg.play_sounds)
 

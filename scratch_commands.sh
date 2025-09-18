@@ -1,15 +1,10 @@
 
 
-# pro pencil inspection
-# doesn't work (env-data compatibility differs from below)
-uv run python examples/replay_in_sim.py --env.type=aloha --dataset=lerobot/aloha_static_pro_pencil  > inspect_pro_pencil_log.txt  
-
 
 # aloha insertion radian validate (this works)
-uv run python examples/replay_in_sim.py --env.type=aloha --dataset.repo_id=lerobot/aloha_insertion_20250604_radian > inspection_re.txt
+uv run python examples/check_dataset_radian.py --env.type=aloha --dataset.repo_id=lerobot/aloha_insertion_20250918 > inspection_re.txt
 
 
-
-
-# viz_dataset.sh
-bash viz_dataset.sh aloha_static_pro_pencil 0
+# viz_dataset.sh # local dataset은 이렇게 이름만 적어주자
+bash viz_dataset.sh aloha_insertion_20250918 41 
+# 41번 에피소드에 문제가 있는걸 확인함. 
