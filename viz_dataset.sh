@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x # echo on
+
 repo_id=$1
 ep_idx=$2
 
